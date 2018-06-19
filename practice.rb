@@ -13,4 +13,5 @@ def cupid_shuffle
     counter == counter + 1
 puts "#{counter} move(s) completed!"    
 end
+end
 cupid_shuffle
